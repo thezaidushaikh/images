@@ -8,5 +8,10 @@
 .image{
   border: 5px solid black;
   border-radius: 25%;
-  
+}
+
+.download{
+  padding: 10px;
+  background: white;
+  color: pink;
 }
